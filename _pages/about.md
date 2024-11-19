@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello"
+title: "Hello, I am Yuki"
 author_profile: true
 redirect_from: 
   - /about/
